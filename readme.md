@@ -173,14 +173,14 @@ Foi utilizado o Tinkercad para simulação inicial do circuito e do código dese
 
 <div align="center">
     <strong style="font-size: 18px;"><sub>Montagem Física do Circuito com Led Interno Ligado</sub></strong><br>
-<img src="Assets/Led_interno.jpg" width="90%"
+<img src="Assets/Led_Interno.jpg" width="80%"
     alt="Esquemático Elétrico"><br>
     <sup>Fonte: Desenvolvido Manualmente</sup>
   </div>
 
 <div align="center">
     <strong style="font-size: 18px;"><sub>Montagem Física do Circuito com Led Externo Ligado</sub></strong><br>
-<img src="Assets/Led_externo.jpg" width="90%"
+<img src="Assets/Led_externo.jpg" width="80%"
     alt="Esquemático Elétrico"><br>
     <sup>Fonte: Desenvolvido Manualmente</sup>
   </div>
