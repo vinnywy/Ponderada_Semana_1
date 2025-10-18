@@ -185,6 +185,22 @@ Foi utilizado o Tinkercad para simulação inicial do circuito e do código dese
     <sup>Fonte: Desenvolvido Manualmente</sup>
   </div>
 
+**Arduino IDE**
+
+<div align="center">
+    <strong style="font-size: 18px;"><sub>Código Completo no Arduino IDE</sub></strong><br>
+<img src="Assets/ide_1.jpg" width="90%"
+    alt="Esquemático Elétrico"><br>
+    <sup>Fonte: Desenvolvido Manualmente</sup>
+  </div>
+
+<div align="center">
+    <strong style="font-size: 18px;"><sub>Código Completo no Arduino IDE</sub></strong><br>
+<img src="Assets/ide_2.jpg" width="90%"
+    alt="Esquemático Elétrico"><br>
+    <sup>Fonte: Desenvolvido Manualmente</sup>
+  </div>
+
 
 **Autor**
 
